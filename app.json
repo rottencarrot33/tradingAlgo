@@ -1,0 +1,17 @@
+{
+    "name": "my-python-bot",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "python bot.py"
+    },
+    "dependencies": {
+      "MetaTrader5": "^5.0.38",
+      "numpy": "^1.21.4",
+      "pandas": "^1.4.0",
+      "python-dotenv": "^0.19.1",
+      "pytz": "^2021.3",
+      "six": "^1.16.0",
+      "talib": "^0.4.0"
+    }
+  }
+  
