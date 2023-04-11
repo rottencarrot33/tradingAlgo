@@ -1,3 +1,0 @@
-﻿MetaTrader5==5.0.44
-numpy==1.24.2
-TA-Lib @ https://github.com/mrjbq7/ta-lib/archive/refs/tags/v0.4.0.tar.gz
